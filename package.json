@@ -7,7 +7,7 @@
     "test": "mocha ./test/* --exit",
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "build": "echo 'No build step required for this project'" // เราต้องเพิ่มตัวนี้เข้าไป
+    "build": "echo 'No build step required for this project'"
   },
   "keywords": [],
   "author": "",
