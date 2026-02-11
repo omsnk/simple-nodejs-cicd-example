@@ -58,3 +58,6 @@ pipeline {
 
   }
 }
+
+// Remove-Item node_modules -Recurse -Force
+// Remove-Item package-lock.json -Force
